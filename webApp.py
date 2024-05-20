@@ -61,7 +61,7 @@ def detect_contours(image):
 # Menampilkan judul dan deskripsi aplikasi
 st.title("Manipulasi gambar menggunakan Streamlit")
 st.subheader("Muhammad Goldvin Wijayakusuma (312210642)")
-st.subheader("Candra Rizki Nanjung Kharisma(312210675)")
+st.subheader("Candra Rizki Nanjung Kharisma (312210675)")
 st.subheader("Khodir Bimasakti (312210698)")
 st.write("Unggah sebuah gambar yang ingin di Manipulasi")
 
